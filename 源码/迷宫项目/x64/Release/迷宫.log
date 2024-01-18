@@ -1,0 +1,34 @@
+﻿  03.game_control.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\水作业集合\课程设计_何晓凡_2021329621261\vs解决方案\head.h(25,1): warning C4005: “max”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(193): message : 参见“max”的前一个定义
+  02.main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\水作业集合\课程设计_何晓凡_2021329621261\vs解决方案\head.h(25,1): warning C4005: “max”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(193): message : 参见“max”的前一个定义
+  04.draw_graph.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\水作业集合\课程设计_何晓凡_2021329621261\vs解决方案\head.h(25,1): warning C4005: “max”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(193): message : 参见“max”的前一个定义
+D:\水作业集合\课程设计_何晓凡_2021329621261\vs解决方案\04.draw_graph.cpp(396,10): warning C4102: “defalut”: 未引用的标签
+  05.DFSmaze.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\水作业集合\课程设计_何晓凡_2021329621261\vs解决方案\head.h(25,1): warning C4005: “max”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(193): message : 参见“max”的前一个定义
+  01.global_variable.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\水作业集合\课程设计_何晓凡_2021329621261\vs解决方案\head.h(25,1): warning C4005: “max”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(193): message : 参见“max”的前一个定义
+  06.queue_find.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\水作业集合\课程设计_何晓凡_2021329621261\vs解决方案\head.h(25,1): warning C4005: “max”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(193): message : 参见“max”的前一个定义
+  07.custom_maze.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\水作业集合\课程设计_何晓凡_2021329621261\vs解决方案\head.h(25,1): warning C4005: “max”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(193): message : 参见“max”的前一个定义
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 507 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  迷宫.vcxproj -> D:\水作业集合\课程设计_何晓凡_2021329621261\vs解决方案\x64\Release\迷宫.exe
